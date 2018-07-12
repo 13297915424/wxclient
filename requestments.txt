@@ -1,0 +1,4 @@
+htmlPy==2.0.3
+PyQt5
+pillow
+matplotlib
